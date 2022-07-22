@@ -1,5 +1,6 @@
 # CSS3
 19.03.2022
+# Practices
 . Inline, Internal and External CSS
 . Styling Text
 . Combining Selectors
