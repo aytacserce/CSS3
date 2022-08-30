@@ -1,20 +1,16 @@
 # CSS3
 19.03.2022
-# Practices
-. Inline, Internal and External CSS
-. Styling Text
-. Combining Selectors
-. Class and ID Selectors
-. Working With Colors
-. Pseudo-classes
-. Styling Hyperlinks
-. Using Chrome DevTools
-. Conflicts Between Selectors
-. Inheritance and the Universal Selector
-. The CSS Box Model
-. Using Margins and Paddings
-. Adding Dimensions
-. Centering our Page
-. Types of Boxes
-. Absolute Positioning
-. Pseudo-elements
+
+---
+
+This is my first CSS that I practiced fundamentals while building.
+
+---
+
+<img width="600px" src="https://github.com/cptsprrw/CSS3/blob/main/css3-screenshot.png?raw=true" />
+
+---
+
+### :hammer_and_wrench: Languages and Tools Used:
+- HTML
+- CSS
